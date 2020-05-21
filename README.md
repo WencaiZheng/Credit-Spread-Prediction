@@ -7,7 +7,7 @@ In this report, we selected various features with high predictive power on econo
 ## Feature correlation
 ![](results/corr.png)
 
-## Regime detection
+## Regime detection with HMM
 ![](results/regime1.png)
 
 ## Model results
