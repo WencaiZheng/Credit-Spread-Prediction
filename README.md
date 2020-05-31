@@ -1,6 +1,6 @@
 # Credit-Spread-predicting-machine-learning
 
-![abstract](results/abstract1.png)
+![](results/abstract1.png)
 
 ## Feature correlation
 ![](results/corr.png)
