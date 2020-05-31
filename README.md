@@ -1,6 +1,6 @@
 # Credit-Spread-predicting-machine-learning
 
-![image-20200530213900036](C:\Users\wenca\AppData\Roaming\Typora\typora-user-images\image-20200530213900036.png)
+![abstract](results/abstract1.png)
 
 ## Feature correlation
 ![](results/corr.png)
