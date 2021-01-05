@@ -14,3 +14,5 @@
 ![](results/r3.png)
 ![](results/r4.png)
 ![](results/r5.png)
+
+This model is very practical.
